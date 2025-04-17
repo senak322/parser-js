@@ -1,0 +1,25 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senak322/parser-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senak322/parser-js/issues"
+  },
+  "homepage": "https://github.com/senak322/parser-js#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.13.2"
+  }
+}
